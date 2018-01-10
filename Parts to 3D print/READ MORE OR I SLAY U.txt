@@ -1,0 +1,12 @@
+This section of the repository is to list out parts that need to be 3D printed. 
+
+In the name of the part put the name of the part and when you need it (non dated parts will be queued last) and any ceratin specifications of the print
+also put a more indepth version in the commit on github.
+
+
+
+
+
+
+PLEASE DELETE PARTS FROM THIS WHEN THEY ARE PRINTED - TO LUCAS
+
